@@ -1,2 +1,2 @@
 Weather-App<br> 
-Hosted Link:(https://aniket761.000webhostapp.com/)
+Hosted Link:(https://vast-spire-77460.herokuapp.com/)
